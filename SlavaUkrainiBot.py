@@ -70,7 +70,7 @@ def main():
             db.mark_as_posted(unposted_events)
 
 
-    client.run('OTU3NjE1NzAyOTcyNDYxMTE2.YkBXHw.1gAS8EYDN9ycPP9X37sPMvfsVEc')
+    client.run('PROVIDE TOKEN')
 
 
 if __name__ == "__main__":
